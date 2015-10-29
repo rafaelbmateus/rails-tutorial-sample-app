@@ -5,6 +5,14 @@ michael:
   admin: true
   activated: true
   activated_at: <%= Time.zone.now %>
+  
+rafael:
+  name: Rafael Mateus
+  email: rafaelmateus@hotmail.com.br
+  password_digest: <%= "admin" %>
+  admin: true
+  activated: true
+  activated_at: <%= Time.zone.now %>
 
 archer:
   name: Sterling Archer
