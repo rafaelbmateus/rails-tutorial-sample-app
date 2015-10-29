@@ -1,28 +1,13 @@
-== README
+=== Sample app Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This a sample app Twitter of Ruby on Rails.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To use app:
+https://rails-tutorial-rafaelbmateus.c9.io/
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+C9 with source code:
+https://ide.c9.io/rafaelbmateus/rails-tutorial
+
+Start application in Cloud9:
+rails server -p $PORT -b $IP
