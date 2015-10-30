@@ -1,4 +1,4 @@
-= Sample app Ruby on Rails
+* Sample app Ruby on Rails
 
 This a sample app Twitter of Ruby on Rails.
 
